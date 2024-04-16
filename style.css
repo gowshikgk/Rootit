@@ -1,0 +1,126 @@
+.home{
+    background-image:url("production_id_4779866\ \(1080p\)\ 1.png") ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    height: 450px;
+}
+.home1{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar{
+    border: 1px solid rgb(181, 179, 179);
+    border-radius: 50px;
+    width: 450px;
+    height: 45px;
+    margin-top: 10px;
+    padding-left: 18px;
+    padding-right:18px ;
+    background-color: rgb(127, 125, 125);
+}
+.navbar a{
+    text-decoration: none;
+    color: rgb(212, 208, 208);
+}
+.navbar a:hover{
+    color: rgb(197, 157, 197);
+}
+.conbut button{
+    color: white;
+    background-color:rgb(197, 157, 197) ;
+    padding: 8px;
+    border-radius: 25px;
+    border: none;
+    margin-top: 10px;
+}
+.Dasbord{
+    margin-top: 80px;
+    margin-left: 450px;
+    display: flex;
+    justify-content: space-between;
+    width: 500px;
+    justify-content: space-between;
+}
+.Dasbord button{
+    color: white;
+    border-radius: 25px;
+    border: none;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.Dasbord p{
+    color: white;
+    font-size: 55px;
+    font-weight: 700;
+}
+.bottom{
+    background-color: black;
+    height: 610px;
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 60px;
+}
+.botnav{
+    display: flex;
+    justify-content: space-between;
+}
+.botcontact a{
+    text-decoration: none;
+    color: rgb(194, 189, 189);
+    padding-left: 10px;
+    border-right: 1px solid gray;
+    padding-right: 10px;
+
+}
+.email{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    height: 150px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(33, 33, 33);
+}
+.reach{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(163, 160, 160);
+    padding-bottom: 15px;
+    margin-top: 30px;
+}
+.reach span{
+    text-decoration: underline;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.addbut .but{
+    background-color:black;
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+    color: white;
+}
+.social a{
+    text-decoration: none;
+    color: gray;
+    padding: 10px;
+}
+.discus{
+    display: flex;
+    justify-content: space-around;
+    background-image:url("https://i.ibb.co/QN3K4Hk/production-id-4779866-1080p-1.png") ;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 950px;
+    height: 180px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right:auto;
+    margin-top: 60px;
+    padding-top: 50px;
+}
